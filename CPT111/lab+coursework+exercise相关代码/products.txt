@@ -1,0 +1,3 @@
+ProductID: 101, Name: Apple, Price: 1.25, Quantity: 10
+ProductID: 102, Name: Banana, Price: 0.75, Quantity: 20
+ProductID: 103, Name: Orange, Price: 1.50, Quantity: 15
